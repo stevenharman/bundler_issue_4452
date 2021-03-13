@@ -1,0 +1,22 @@
+GEM
+  remote: https://gem.fury.io/stevenharman/
+  specs:
+    sekret_lib (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dumb_delegator (1.0.0)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  dumb_delegator
+  sekret_lib!
+
+RUBY VERSION
+   ruby 2.7.2p137
+
+BUNDLED WITH
+   2.2.14
